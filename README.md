@@ -4,6 +4,7 @@
 
 ## 创意项目列表
 
++ [Github Profile Page Creator](https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator)：根据你的 Github 名字（无需登录）就能生成对应的 H5 页面，包括简历、徽章、提交数、Star 数、粉丝数等等
 
 + [bubbletea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/charmbracelet/bubbletea)：一个强大的 TUI（文本用户界面）框架。Bubble Tea 非常适合构建复杂交互的终端应用程序，同时还能让命令行程序变得多彩和炫酷
 
